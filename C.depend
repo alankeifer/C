@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1536194412 source:/home/raptor/C/main.c
+	<stdio.h>
+	<stdlib.h>
+
+1536194921 source:/home/raptor/C/pointers/pointer_basics.c
+	<stdio.h>
+
